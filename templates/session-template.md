@@ -190,4 +190,4 @@ Indicar cuál será el siguiente tema.
 
 No avanzar automáticamente.
 
-Esperar confirmación del estudiante.    
+Esperar confirmación del estudiante.
